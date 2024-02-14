@@ -1,0 +1,18 @@
+body {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwPDAW-9-3ZqcqKRSxDFPuj1BPR24udl0Yg);
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.cuerpo {
+    width: 80%;
+    background-color:#ff8e8f ;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
